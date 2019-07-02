@@ -15,4 +15,8 @@ public class SamoleController {
 	public String master() {
 		return "master";
 	}
+	public String bugfix() {
+		return "bugfix";
+	}
+	
 }
