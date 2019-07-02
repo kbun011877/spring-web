@@ -11,4 +11,9 @@ public class SamoleController {
 	public String sample() {
 		return "sample/main";
 	}
+	
+	public String bugfix() {
+		return "bugfix";
+	}
+	
 }
